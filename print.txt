@@ -1,0 +1,3 @@
+Before bodyguard damage
+LEN0
+LEN0
